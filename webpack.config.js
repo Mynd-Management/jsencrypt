@@ -5,8 +5,8 @@ module.exports = {
   output: {
     library: 'JSEncrypt',
     libraryTarget: 'umd',
-    libraryExport: 'default',
-    globalObject: 'window',
+    // libraryExport: 'default',
+    // globalObject: 'window',
     path: path.resolve(__dirname, 'bin'),
     filename: 'jsencrypt.js',
   },

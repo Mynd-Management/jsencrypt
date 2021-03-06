@@ -1,6 +1,6 @@
 {
-  "name": "jsencrypt",
-  "version": "@myndmanagement/3.0.2",
+  "name": "@myndmanagement/jsencrypt",
+  "version": "3.0.3",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "main": "lib/JSEncrypt.js",
   "types": "lib/JSEncrypt.d.ts",
